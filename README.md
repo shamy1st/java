@@ -1,4 +1,5 @@
 # Java
+### Java Editions
 ![](https://github.com/shamy1st/java/blob/main/java-editions.png)
 ### Standard Edition (SE)
 * [Java Core](https://github.com/shamy1st/java-core)

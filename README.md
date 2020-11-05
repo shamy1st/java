@@ -1,7 +1,7 @@
 # Java
-### Standard Edition (SE)
 * [Java Core](https://github.com/shamy1st/java-core)
 * [OOP](https://github.com/shamy1st/oop)
+### Standard Edition (SE)
 * [Java SE 8](https://github.com/shamy1st/java-se-8) - Mar. 2014
 * [Java SE 9](https://github.com/shamy1st/java-se-9) - Sep. 2017
 * [Java SE 10](https://github.com/shamy1st/java-se-10) - Mar. 2018

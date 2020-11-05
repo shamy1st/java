@@ -10,6 +10,8 @@
 * [Java SE 13](https://github.com/shamy1st/java-se-13) - Sep. 2019
 * [Java SE 14](https://github.com/shamy1st/java-se-14) - Mar. 2020
 * [Java SE 15](https://github.com/shamy1st/java-se-15) - Sep. 2020
+* Java SE 16 - Mar. 2021
+* Java SE 17 - Sep. 2021
 
 ### Enterprise Edition (EE)
 * [J2EE 1.2](https://github.com/shamy1st/j2ee-1.2) - Dec. 1999

@@ -2,6 +2,8 @@
 * [Java Core](https://github.com/shamy1st/java-core)
 * [OOP](https://github.com/shamy1st/oop)
 ### Standard Edition (SE)
+* J2SE 5.0 - Sep. 2004
+* Java SE 6 - Dec. 2006
 * Java SE 7 - Jul. 2011
 * [Java SE 8](https://github.com/shamy1st/java-se-8) - Mar. 2014
 * [Java SE 9](https://github.com/shamy1st/java-se-9) - Sep. 2017
